@@ -1,3 +1,3 @@
-# custom_appbar_expirement
+# Experiment with the custom appbar
 
-Custom appbar
+Custom appbar with animation while scrolling the list below the appbar
